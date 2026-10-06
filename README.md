@@ -1,8 +1,11 @@
 # 🏛️ CivicPulse AI — Autonomous Citizen Query Resolution & Automation System
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-devanshmewade.github.io%2FFLEXI-2563eb?style=for-the-badge&logo=githubpages&logoColor=white)](https://devanshmewade.github.io/FLEXI/)
+
 > **Subject:** Agentic AI and Automation  
 > **Topic:** AI Agent for Citizen Query Resolution  
 > **Core Technologies:** Multi-Agent Swarm, ReAct Loop, Google Gemini API (`gemini-2.5-flash` / `gemini-1.5-flash`), Retrieval-Augmented Generation (Civic RAG), Human-in-the-Loop (HITL) Supervisory Governance, React 19, Vite.
+> **Live Site:** [https://devanshmewade.github.io/FLEXI/](https://devanshmewade.github.io/FLEXI/)
 
 ---
 
